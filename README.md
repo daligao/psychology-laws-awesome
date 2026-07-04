@@ -21,18 +21,18 @@
 
 Core biases that affect how we perceive information and form beliefs.
 
-| # | Law | Description | Link |
-|---|---|---|---|
-| 1 | Confirmation Bias | Seeking information that confirms existing beliefs | [Read More](https://ordinarymantrying.com/what-is-confirmation-bias/) |
-| 2 | Availability Heuristic | Judging likelihood by how easily examples come to mind | [Read More](https://ordinarymantrying.com/what-is-availability-heuristic/) |
-| 3 | Dunning-Kruger Effect | Incompetent people overestimate their competence | [Read More](https://ordinarymantrying.com/what-is-the-dunning-kruger-effect/) |
-| 4 | Halo Effect | One positive trait influences overall judgment | [Read More](https://ordinarymantrying.com/what-is-the-halo-effect/) |
-| 5 | Anchoring Bias | First number sticks to perception of value | [Read More](https://ordinarymantrying.com/what-is-anchoring-bias/) |
-| 6 | Recency Bias | Overweighting recent information in decisions | [Read More](https://ordinarymantrying.com/what-is-recency-bias/) |
-| 7 | Negativity Bias | Giving more weight to negative information | [Read More](https://ordinarymantrying.com/what-is-negativity-bias/) |
-| 8 | Sunk Cost Fallacy | Past investment influences future choices | [Read More](https://ordinarymantrying.com/what-is-the-sunk-cost-fallacy/) |
-| 9 | Survivorship Bias | Only seeing winners, missing the failures | [Read More](https://ordinarymantrying.com/what-is-survivorship-bias/) |
-| 10 | Status Quo Bias | Preferring things to stay as they are | [Read More](https://ordinarymantrying.com/what-is-status-quo-bias/) |
+| # | Law | Description |
+|---|---|---|
+| 1 | Confirmation Bias | Seeking information that confirms existing beliefs |
+| 2 | Availability Heuristic | Judging likelihood by how easily examples come to mind |
+| 3 | Dunning-Kruger Effect | Incompetent people overestimate their competence |
+| 4 | Halo Effect | One positive trait influences overall judgment |
+| 5 | Anchoring Bias | First number sticks to perception of value |
+| 6 | Recency Bias | Overweighting recent information in decisions |
+| 7 | Negativity Bias | Giving more weight to negative information |
+| 8 | Sunk Cost Fallacy | Past investment influences future choices |
+| 9 | Survivorship Bias | Only seeing winners, missing the failures |
+| 10 | Status Quo Bias | Preferring things to stay as they are |
 
 ---
 
@@ -40,18 +40,18 @@ Core biases that affect how we perceive information and form beliefs.
 
 Patterns that derail our decisions in finance, career, and life choices.
 
-| # | Law | Description | Link |
-|---|---|---|---|
-| 11 | Hyperbolic Discounting | Valuing immediate rewards over future benefits | [Read More](https://ordinarymantrying.com/what-is-hyperbolic-discounting/) |
-| 12 | Loss Aversion | Fear of loss outweighs hope of gain | [Read More](https://ordinarymantrying.com/what-is-loss-aversion/) |
-| 13 | Scarcity Bias | Limited options feel more valuable | [Read More](https://ordinarymantrying.com/what-is-scarcity-bias/) |
-| 14 | Planning Fallacy | Underestimating time needed for tasks | [Read More](https://ordinarymantrying.com/what-is-planning-fallacy/) |
-| 15 | Choice Overload | Too many options paralyze decision-making | [Read More](https://ordinarymantrying.com/what-is-choice-overload/) |
-| 16 | Contrast Effect | Misjudging value due to recent comparisons | [Read More](https://ordinarymantrying.com/what-is-contrast-effect/) |
-| 17 | FOMO (Fear of Missing Out) | Decision driven by fear of missing opportunity | [Read More](https://ordinarymantrying.com/what-is-fomo/) |
-| 18 | Groupthink | Group pressure overrides critical thinking | [Read More](https://ordinarymantrying.com/what-is-groupthink/) |
-| 19 | Herding Behavior | Following crowd without independent analysis | [Read More](https://ordinarymantrying.com/what-is-herding-behavior/) |
-| 20 | Illusion of Control | Believing we control uncontrollable events | [Read More](https://ordinarymantrying.com/what-is-illusion-of-control/) |
+| # | Law | Description |
+|---|---|---|
+| 11 | Hyperbolic Discounting | Valuing immediate rewards over future benefits |
+| 12 | Loss Aversion | Fear of loss outweighs hope of gain |
+| 13 | Scarcity Bias | Limited options feel more valuable |
+| 14 | Planning Fallacy | Underestimating time needed for tasks |
+| 15 | Choice Overload | Too many options paralyze decision-making |
+| 16 | Contrast Effect | Misjudging value due to recent comparisons |
+| 17 | FOMO (Fear of Missing Out) | Decision driven by fear of missing opportunity |
+| 18 | Groupthink | Group pressure overrides critical thinking |
+| 19 | Herding Behavior | Following crowd without independent analysis |
+| 20 | Illusion of Control | Believing we control uncontrollable events |
 
 ---
 
@@ -59,18 +59,18 @@ Patterns that derail our decisions in finance, career, and life choices.
 
 How social context and psychology shape our actions.
 
-| # | Law | Description | Link |
-|---|---|---|---|
-| 21 | Conformity Bias | Adapting behavior to match group norms | [Read More](https://ordinarymantrying.com/what-is-conformity-bias/) |
-| 22 | Authority Bias | Over-trusting authority figures | [Read More](https://ordinarymantrying.com/what-is-authority-bias/) |
-| 23 | Likability Bias | Attractive people seem more competent | [Read More](https://ordinarymantrying.com/what-is-likability-bias/) |
-| 24 | Moral Licensing | Feeling virtuous after one good act | [Read More](https://ordinarymantrying.com/what-is-moral-licensing/) |
-| 25 | Dunning-Kruger Inverse | Experts underestimate their knowledge | [Read More](https://ordinarymantrying.com/what-is-dunning-kruger-inverse/) |
-| 26 | Backfire Effect | Evidence strengthens opposite beliefs | [Read More](https://ordinarymantrying.com/what-is-backfire-effect/) |
-| 27 | Foot-in-the-Door | Small commitment leads to larger ones | [Read More](https://ordinarymantrying.com/what-is-foot-in-the-door/) |
-| 28 | Door-in-the-Face | Large request followed by smaller gets compliance | [Read More](https://ordinarymantrying.com/what-is-door-in-the-face/) |
-| 29 | Reciprocity Bias | Tendency to return favors | [Read More](https://ordinarymantrying.com/what-is-reciprocity-bias/) |
-| 30 | Curse of Knowledge | Difficulty understanding others don't know what we know | [Read More](https://ordinarymantrying.com/what-is-curse-of-knowledge/) |
+| # | Law | Description |
+|---|---|---|
+| 21 | Conformity Bias | Adapting behavior to match group norms |
+| 22 | Authority Bias | Over-trusting authority figures |
+| 23 | Likability Bias | Attractive people seem more competent |
+| 24 | Moral Licensing | Feeling virtuous after one good act |
+| 25 | Dunning-Kruger Inverse | Experts underestimate their knowledge |
+| 26 | Backfire Effect | Evidence strengthens opposite beliefs |
+| 27 | Foot-in-the-Door | Small commitment leads to larger ones |
+| 28 | Door-in-the-Face | Large request followed by smaller gets compliance |
+| 29 | Reciprocity Bias | Tendency to return favors |
+| 30 | Curse of Knowledge | Difficulty understanding others don't know what we know |
 
 ---
 
@@ -78,18 +78,18 @@ How social context and psychology shape our actions.
 
 Patterns in how we think, reason, and construct arguments.
 
-| # | Law | Description | Link |
-|---|---|---|---|
-| 31 | Correlation ≠ Causation | Confusing relationship with cause | [Read More](https://ordinarymantrying.com/what-is-correlation-causation/) |
-| 32 | Hasty Generalization | Drawing conclusions from limited data | [Read More](https://ordinarymantrying.com/what-is-hasty-generalization/) |
-| 33 | False Consensus | Overestimating how many agree with us | [Read More](https://ordinarymantrying.com/what-is-false-consensus/) |
-| 34 | Fundamental Attribution Error | Blaming personality, ignoring situation | [Read More](https://ordinarymantrying.com/what-is-fundamental-attribution-error/) |
-| 35 | Actor-Observer Bias | Different explanations for own vs others' behavior | [Read More](https://ordinarymantrying.com/what-is-actor-observer-bias/) |
-| 36 | Hindsight Bias | "I knew it all along" after the outcome | [Read More](https://ordinarymantrying.com/what-is-hindsight-bias/) |
-| 37 | Gambler's Fallacy | Believing past results affect future probabilities | [Read More](https://ordinarymantrying.com/what-is-gamblers-fallacy/) |
-| 38 | Base Rate Fallacy | Ignoring statistical likelihood | [Read More](https://ordinarymantrying.com/what-is-base-rate-fallacy/) |
-| 39 | Conjunction Fallacy | Specific scenario seems more likely than general | [Read More](https://ordinarymantrying.com/what-is-conjunction-fallacy/) |
-| 40 | Sunk Cost Tradeoff | Weighing efforts differently based on past work | [Read More](https://ordinarymantrying.com/what-is-sunk-cost-tradeoff/) |
+| # | Law | Description |
+|---|---|---|
+| 31 | Correlation ≠ Causation | Confusing relationship with cause |
+| 32 | Hasty Generalization | Drawing conclusions from limited data |
+| 33 | False Consensus | Overestimating how many agree with us |
+| 34 | Fundamental Attribution Error | Blaming personality, ignoring situation |
+| 35 | Actor-Observer Bias | Different explanations for own vs others' behavior |
+| 36 | Hindsight Bias | "I knew it all along" after the outcome |
+| 37 | Gambler's Fallacy | Believing past results affect future probabilities |
+| 38 | Base Rate Fallacy | Ignoring statistical likelihood |
+| 39 | Conjunction Fallacy | Specific scenario seems more likely than general |
+| 40 | Sunk Cost Tradeoff | Weighing efforts differently based on past work |
 
 ---
 
