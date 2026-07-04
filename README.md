@@ -138,9 +138,8 @@ How we measure, communicate, and seek information.
 Quick reference with links to all 40 laws, organized by category.
 
 ### In-Depth Guides
-**[Read Full Guides →](https://ordinarymantrying.com/tools/laws/)**
 
-Each law includes:
+Each law in the Psychology Laws Index includes:
 - Historical origins & research
 - Real-world examples
 - Practical applications
@@ -241,7 +240,6 @@ Created by [Ordinary Man Trying](https://ordinarymantrying.com) — exploring ps
 - Website: https://ordinarymantrying.com/
 - Interactive Quiz: https://ordinarymantrying.com/tools/mind-traps.html
 - Law Index: https://ordinarymantrying.com/tools/psychology-laws-index.html
-- Individual Laws: https://ordinarymantrying.com/tools/laws/
 
 ---
 
