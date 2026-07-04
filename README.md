@@ -1,6 +1,6 @@
 # Awesome Psychology Laws & Cognitive Biases
 
-> A curated collection of 40 psychology laws, cognitive biases, and decision-making patterns with real-world applications. Interactive quiz, comprehensive guides, and scenario-based learning included.
+> A curated collection of 40 psychology laws, cognitive biases, and decision-making patterns with real-world applications. Interactive quiz, in-depth guides, and scenario-based learning.
 
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 [![MIT License](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
@@ -9,87 +9,114 @@
 
 ## 📚 What's Included
 
-- **40 Psychology Laws** — Comprehensive coverage of cognitive biases, behavioral economics, and decision-making traps
-- **Interactive Quiz** — Mind Traps game with 40 laws, 8 scenarios each (320+ scenarios)
-- **Blog Articles** — In-depth 800+ word explanations for each law with real-world examples
-- **Decision Frameworks** — How to recognize and avoid each trap in practice
-- **Open Source** — All content freely available, fully documented
+- **40 Psychology Laws** — Comprehensive coverage of cognitive biases, behavioral effects, decision-making traps, and systems principles
+- **Interactive Quiz** — Mind Traps game with 40 laws, 8 real-world scenarios each (320+ scenarios)
+- **In-Depth Guides** — Detailed explanations for each law with origins, examples, and applications
+- **Decision Frameworks** — How to recognize and counteract each bias in practice
+- **Open Source** — All content freely available, fully documented, MIT licensed
 
 ---
 
-## 🧠 Category 1: Cognitive Biases
+## 🧠 Category 1: How We Perceive Information
 
-Core biases that affect how we perceive information and form beliefs.
+Biases and effects that shape how we interpret the world.
 
-| # | Law | Description |
-|---|---|---|
-| 1 | Confirmation Bias | Seeking information that confirms existing beliefs |
-| 2 | Availability Heuristic | Judging likelihood by how easily examples come to mind |
-| 3 | Dunning-Kruger Effect | Incompetent people overestimate their competence |
-| 4 | Halo Effect | One positive trait influences overall judgment |
-| 5 | Anchoring Bias | First number sticks to perception of value |
-| 6 | Recency Bias | Overweighting recent information in decisions |
-| 7 | Negativity Bias | Giving more weight to negative information |
-| 8 | Sunk Cost Fallacy | Past investment influences future choices |
-| 9 | Survivorship Bias | Only seeing winners, missing the failures |
-| 10 | Status Quo Bias | Preferring things to stay as they are |
+| # | Law | Description | Read More |
+|---|---|---|---|
+| 1 | **Confirmation Bias** | We search for, interpret, and remember information that confirms our existing beliefs | [Read →](https://ordinarymantrying.com/tools/laws/confirmation-bias.html) |
+| 2 | **Anchoring Effect** | The first number we encounter shapes all subsequent judgments | [Read →](https://ordinarymantrying.com/tools/laws/anchoring-effect.html) |
+| 3 | **Primacy Effect** | First information disproportionately shapes our overall impression | [Read →](https://ordinarymantrying.com/tools/laws/primacy-effect.html) |
+| 4 | **Recency Effect** | Most recent information disproportionately shapes final judgment | [Read →](https://ordinarymantrying.com/tools/laws/recency-effect.html) |
+| 5 | **Halo Effect** | A positive impression in one area causes us to assume excellence in unrelated areas | [Read →](https://ordinarymantrying.com/tools/laws/halo-effect.html) |
+| 6 | **Barnum Effect** | We readily accept vague, general descriptions as uniquely accurate about ourselves | [Read →](https://ordinarymantrying.com/tools/laws/barnum-effect.html) |
+| 7 | **Kuleshov Effect** | Meaning of an image is determined by what precedes it, not the image itself | [Read →](https://ordinarymantrying.com/tools/laws/kuleshov-effect.html) |
 
 ---
 
-## 💰 Category 2: Decision-Making Traps
+## 💭 Category 2: Self-Awareness & Knowledge
 
-Patterns that derail our decisions in finance, career, and life choices.
+Biases in how we judge ourselves and our competence.
 
-| # | Law | Description |
-|---|---|---|
-| 11 | Hyperbolic Discounting | Valuing immediate rewards over future benefits |
-| 12 | Loss Aversion | Fear of loss outweighs hope of gain |
-| 13 | Scarcity Bias | Limited options feel more valuable |
-| 14 | Planning Fallacy | Underestimating time needed for tasks |
-| 15 | Choice Overload | Too many options paralyze decision-making |
-| 16 | Contrast Effect | Misjudging value due to recent comparisons |
-| 17 | FOMO (Fear of Missing Out) | Decision driven by fear of missing opportunity |
-| 18 | Groupthink | Group pressure overrides critical thinking |
-| 19 | Herding Behavior | Following crowd without independent analysis |
-| 20 | Illusion of Control | Believing we control uncontrollable events |
+| # | Law | Description | Read More |
+|---|---|---|---|
+| 8 | **Dunning-Kruger Effect** | Limited competence leads to overestimation; experts tend to underestimate | [Read →](https://ordinarymantrying.com/tools/laws/dunning-kruger-effect.html) |
+| 9 | **Spotlight Effect** | We vastly overestimate how much others notice our appearance and mistakes | [Read →](https://ordinarymantrying.com/tools/laws/spotlight-effect.html) |
+| 10 | **Hawthorne Effect** | People change behavior when they know they're being observed | [Read →](https://ordinarymantrying.com/tools/laws/hawthorne-effect.html) |
+| 11 | **IKEA Effect** | We place disproportionately high value on things we partially created | [Read →](https://ordinarymantrying.com/tools/laws/ikea-effect.html) |
+| 12 | **Segal's Law** | One watch tells you the time; two watches make you uncertain | [Read →](https://ordinarymantrying.com/tools/laws/segals-law.html) |
 
 ---
 
-## 🎯 Category 3: Social & Behavioral Patterns
+## 👥 Category 3: Social Dynamics & Influence
 
-How social context and psychology shape our actions.
+How social context and others influence our behavior.
 
-| # | Law | Description |
-|---|---|---|
-| 21 | Conformity Bias | Adapting behavior to match group norms |
-| 22 | Authority Bias | Over-trusting authority figures |
-| 23 | Likability Bias | Attractive people seem more competent |
-| 24 | Moral Licensing | Feeling virtuous after one good act |
-| 25 | Dunning-Kruger Inverse | Experts underestimate their knowledge |
-| 26 | Backfire Effect | Evidence strengthens opposite beliefs |
-| 27 | Foot-in-the-Door | Small commitment leads to larger ones |
-| 28 | Door-in-the-Face | Large request followed by smaller gets compliance |
-| 29 | Reciprocity Bias | Tendency to return favors |
-| 30 | Curse of Knowledge | Difficulty understanding others don't know what we know |
+| # | Law | Description | Read More |
+|---|---|---|---|
+| 13 | **Authority Bias** | We place excessive trust in opinions and instructions of perceived authorities | [Read →](https://ordinarymantrying.com/tools/laws/authority-bias.html) |
+| 14 | **Herd Mentality** | Individuals follow the majority, overriding independent judgment | [Read →](https://ordinarymantrying.com/tools/laws/herd-mentality.html) |
+| 15 | **Bystander Effect** | More people present in emergency = less likely any individual helps | [Read →](https://ordinarymantrying.com/tools/laws/bystander-effect.html) |
+| 16 | **Blind Following Effect** | Followers replicate leader behavior even when clearly dysfunctional | [Read →](https://ordinarymantrying.com/tools/laws/blind-following-effect.html) |
+| 17 | **Ben Franklin Effect** | Doing someone a favor makes you like them more — not the reverse | [Read →](https://ordinarymantrying.com/tools/laws/ben-franklin-effect.html) |
+| 18 | **Door-in-the-Face Technique** | Large request first, then smaller request succeeds more often | [Read →](https://ordinarymantrying.com/tools/laws/door-in-the-face.html) |
+| 19 | **Pygmalion Effect** | Higher expectations from authority figures lead to higher performance | [Read →](https://ordinarymantrying.com/tools/laws/pygmalion-effect.html) |
 
 ---
 
-## 🧮 Category 4: Logic & Reasoning Errors
+## 🎯 Category 4: Decision-Making & Action
 
-Patterns in how we think, reason, and construct arguments.
+Patterns that affect how we make decisions and take action.
 
-| # | Law | Description |
-|---|---|---|
-| 31 | Correlation ≠ Causation | Confusing relationship with cause |
-| 32 | Hasty Generalization | Drawing conclusions from limited data |
-| 33 | False Consensus | Overestimating how many agree with us |
-| 34 | Fundamental Attribution Error | Blaming personality, ignoring situation |
-| 35 | Actor-Observer Bias | Different explanations for own vs others' behavior |
-| 36 | Hindsight Bias | "I knew it all along" after the outcome |
-| 37 | Gambler's Fallacy | Believing past results affect future probabilities |
-| 38 | Base Rate Fallacy | Ignoring statistical likelihood |
-| 39 | Conjunction Fallacy | Specific scenario seems more likely than general |
-| 40 | Sunk Cost Tradeoff | Weighing efforts differently based on past work |
+| # | Law | Description | Read More |
+|---|---|---|---|
+| 20 | **Sunk Cost Fallacy** | We irrationally continue investments because of past costs | [Read →](https://ordinarymantrying.com/tools/laws/sunk-cost-fallacy.html) |
+| 21 | **Analysis Paralysis** | Too many options or too much information leads to indecision | [Read →](https://ordinarymantrying.com/tools/laws/analysis-paralysis.html) |
+| 22 | **Peak-End Rule** | We judge experiences by peak moment and ending, not total duration | [Read →](https://ordinarymantrying.com/tools/laws/peak-end-rule.html) |
+| 23 | **Parkinson's Law** | Work expands to fill the time available for its completion | [Read →](https://ordinarymantrying.com/tools/laws/parkinsons-law.html) |
+| 24 | **Birdcage Effect** | Owning one object creates pressure to acquire its complements | [Read →](https://ordinarymantrying.com/tools/laws/birdcage-effect.html) |
+| 25 | **Gambler's Fallacy** | Past random events mistakenly believed to influence future independent events | [Read →](https://ordinarymantrying.com/tools/laws/gamblers-fallacy.html) |
+| 26 | **Survivorship Bias** | Draw conclusions from visible successes while ignoring invisible failures | [Read →](https://ordinarymantrying.com/tools/laws/survivorship-bias.html) |
+
+---
+
+## 🔄 Category 5: Competitive Dynamics & Performance
+
+How competition and threat affect motivation and behavior.
+
+| # | Law | Description | Read More |
+|---|---|---|---|
+| 27 | **Catfish Effect** | Competitive threat revives performance in complacent groups | [Read →](https://ordinarymantrying.com/tools/laws/catfish-effect.html) |
+| 28 | **Gadfly Effect** | External irritation activates latent potential in complacent groups | [Read →](https://ordinarymantrying.com/tools/laws/gadfly-effect.html) |
+| 29 | **Matthew Effect** | Early advantages compound: the more you have, the more you gain | [Read →](https://ordinarymantrying.com/tools/laws/matthew-effect.html) |
+| 30 | **Ratchet Effect** | Standards adjust upward easily but resist downward movement | [Read →](https://ordinarymantrying.com/tools/laws/ratchet-effect.html) |
+| 31 | **10,000-Hour Rule** | World-class expertise requires approximately 10,000 hours of deliberate practice | [Read →](https://ordinarymantrying.com/tools/laws/10000-hour-rule.html) |
+
+---
+
+## ⚙️ Category 6: Systems & Consequences
+
+How small changes cascade through systems; unintended consequences.
+
+| # | Law | Description | Read More |
+|---|---|---|---|
+| 32 | **Butterfly Effect** | Tiny changes in initial conditions cascade into dramatically different outcomes | [Read →](https://ordinarymantrying.com/tools/laws/butterfly-effect.html) |
+| 33 | **Domino Effect** | One event triggers a cascade of related events in interconnected systems | [Read →](https://ordinarymantrying.com/tools/laws/domino-effect.html) |
+| 34 | **Cobra Effect** | Well-intentioned solutions often make the original problem worse | [Read →](https://ordinarymantrying.com/tools/laws/cobra-effect.html) |
+| 35 | **Weakest Link** | A system's performance is limited by its weakest component | [Read →](https://ordinarymantrying.com/tools/laws/weakest-link.html) |
+| 36 | **Pareto Principle (80/20)** | Roughly 80% of outcomes come from 20% of causes | [Read →](https://ordinarymantrying.com/tools/laws/pareto-principle.html) |
+
+---
+
+## 📊 Category 7: Measurement & Information
+
+How we measure, communicate, and seek information.
+
+| # | Law | Description | Read More |
+|---|---|---|---|
+| 37 | **Goodhart's Law** | When a measure becomes a target, it ceases to be a good measure | [Read →](https://ordinarymantrying.com/tools/laws/goodharts-law.html) |
+| 38 | **Streisand Effect** | Attempts to suppress information often amplify it dramatically | [Read →](https://ordinarymantrying.com/tools/laws/streisand-effect.html) |
+| 39 | **Tunnel Vision Effect** | Under stress, attention narrows so severely broader problems are missed | [Read →](https://ordinarymantrying.com/tools/laws/tunnel-vision-effect.html) |
+| 40 | **Murphy's Law** | Anything that can go wrong, will go wrong — at the worst moment | [Read →](https://ordinarymantrying.com/tools/laws/murphys-law.html) |
 
 ---
 
@@ -100,157 +127,135 @@ Patterns in how we think, reason, and construct arguments.
 
 - 40 psychology laws
 - 8 real-world scenarios per law
-- Instant feedback with explanations
 - 320+ decision-making scenarios
+- Instant feedback with explanations
 - Free, no login required
 - ~20 minutes to complete
 
 ### Psychology Laws Index
 **[View Index →](https://ordinarymantrying.com/tools/psychology-laws-index.html)**
 
-- Complete list of all 40 laws
-- Links to in-depth articles
-- Use as quick reference
-- Bookmark for later study
+Quick reference with links to all 40 laws, organized by category.
 
-### Blog Articles
-**[Read Full Guides →](https://ordinarymantrying.com/)**
+### In-Depth Guides
+**[Read Full Guides →](https://ordinarymantrying.com/tools/laws/)**
 
-Each law has:
-- Detailed explanation (800+ words)
-- Historical origins
-- 3-4 real-world examples
+Each law includes:
+- Historical origins & research
+- Real-world examples
 - Practical applications
-- Decision framework
+- Decision frameworks
 
 ---
 
 ## 🚀 How to Use This Repository
 
 ### For Learning
-1. Start with [Mind Traps Quiz](https://ordinarymantrying.com/tools/mind-traps.html) to identify personal blind spots
-2. Read detailed articles for laws you struggled with
-3. Apply frameworks to real decisions in your life
+1. Start with [Mind Traps Quiz](https://ordinarymantrying.com/tools/mind-traps.html) to test your understanding
+2. Click "Read More" on laws that intrigue you
+3. Apply frameworks to real decisions in your work and life
 
 ### For Reference
-- Use this README as quick lookup
-- Browse by category (Cognitive Biases, Decision-Making, Social, Logic)
-- Check the full index for 1-sentence definitions
+- Browse by category (perception, social, decisions, systems, etc.)
+- Use as quick lookup when analyzing decisions
+- Bookmark individual law pages for later study
 
-### For Integration
-- Link to individual law pages in your content
-- Use blog articles for citations
-- Reference the awesome list in other projects
-
----
-
-## 📊 Data
-
-- **Laws Covered**: 40 comprehensive psychology laws and biases
-- **Quiz Scenarios**: 320+ real-world decision scenarios
-- **Blog Articles**: 40 in-depth guides (800-1000 words each)
-- **User Data**: 8,000+ quiz players from global audience
-- **Accuracy Rate**: 72% misidentify Confirmation Bias, 68% miss Sunk Cost
+### For Teaching & Collaboration
+- Link to specific laws in your content
+- Use examples in teaching materials
+- Reference in research or analysis
 
 ---
 
-## 🎓 Psychology Laws Breakdown
+## 📊 The 40 Laws at a Glance
 
-### Most Misunderstood (by quiz data)
-1. Confirmation Bias — 72% incorrect
-2. Sunk Cost Fallacy — 68% incorrect
-3. Survivorship Bias — 65% incorrect
-4. Halo Effect — 60% incorrect
-5. Anchoring — 62% incorrect
-
-### Most Applicable (used most in daily life)
-1. Status Quo Bias
-2. Loss Aversion
-3. Confirmation Bias
-4. Sunk Cost Fallacy
-5. Hyperbolic Discounting
-
-### Most Dangerous (highest impact on decisions)
-1. Survivorship Bias (financial decisions)
-2. Sunk Cost Fallacy (career choices)
-3. Confirmation Bias (relationships)
-4. Authority Bias (personal freedom)
-5. Availability Heuristic (risk assessment)
+| Category | Count | Focus |
+|---|---|---|
+| How We Perceive Information | 7 | Biases in interpretation, attention, judgment |
+| Self-Awareness & Knowledge | 5 | Competence, confidence, self-perception |
+| Social Dynamics & Influence | 7 | Authority, conformity, helping behavior |
+| Decision-Making & Action | 7 | Sunk costs, analysis, experience judgment |
+| Competitive Dynamics | 5 | Motivation, advantage, learning curves |
+| Systems & Consequences | 5 | Cascades, unintended effects, constraints |
+| Measurement & Information | 4 | Metric gaming, suppression, stress effects |
+| **Total** | **40** | **Comprehensive psychology & decision-making** |
 
 ---
 
 ## 💡 Key Insights
 
-> **"Your confidence peaks at 40 hours of knowledge."** (Dunning-Kruger)
-> At 10 hours: too uncertain. At 40 hours: confidently wrong. At 200+ hours: cautious again.
+> **"Information doesn't change minds; it strengthens them."** (Confirmation Bias)  
+> People seek evidence that confirms existing beliefs, not evidence that challenges them.
 
-> **"You are not the final decision-maker."** (Behavioral Design)
-> Most choices are pre-made by environment, not conscious thought. Design context first.
+> **"Early advantages compound."** (Matthew Effect)  
+> Small initial advantages create self-reinforcing cycles that accelerate over time.
 
-> **"Past cost doesn't justify future investment."** (Sunk Cost)
-> The $200k already spent shouldn't influence whether you invest $50k more. Separate past from future.
+> **"Expertise looks like uncertainty."** (Dunning-Kruger)  
+> Experts see more unknowns; beginners don't know what they don't know.
 
-> **"Failures aren't visible."** (Survivorship)
-> Success stories broadcast loud. Failure stories stay silent. This creates illusory patterns.
+> **"Solutions create new problems."** (Cobra Effect)  
+> Good intentions frequently backfire when applied to complex systems.
 
 ---
 
 ## 🔗 Related Resources
 
-### Similar Awesome Lists
-- [awesome-mental-models](https://github.com/ianand/awesome-mental-models)
-- [awesome-decision-making](https://github.com/...)
-- [awesome-cognitive-bias](https://github.com/...)
+### Similar Collections
+- [awesome-mental-models](https://github.com/ianand/awesome-mental-models) — Mental models for decision-making
+- [awesome-behavioral-economics](https://github.com/...) — Behavioral economics research
 
-### Learning Platforms
-- [Mind Traps Interactive Game](https://ordinarymantrying.com/tools/mind-traps.html)
-- [Psychology Laws Blog Index](https://ordinarymantrying.com/tools/psychology-laws-index.html)
-- [100+ Life Simulators](https://ordinarymantrying.com/tools/life-a4/)
-
-### Scientific Sources
-- Kahneman & Tversky (Behavioral Economics)
-- Dunning & Kruger (Metacognition)
-- Wald's WWII Bomber Analysis (Survivorship)
+### Authors & Researchers
+- Daniel Kahneman (Thinking, Fast and Slow)
+- Nassim Taleb (Antifragile, Black Swan)
+- James Clear (Atomic Habits)
+- Robert Cialdini (Influence)
 
 ---
 
 ## 📝 Contributing
 
-This repository is open-source and welcomes contributions:
+This collection welcomes contributions:
 
-1. **Add new laws** — Submit PR with article link
-2. **Improve explanations** — Clarity suggestions welcome
-3. **Add examples** — Real-world scenarios strengthen learning
-4. **Fix links** — Report broken links to articles
+1. **Fix links** — Report broken links to laws
+2. **Improve descriptions** — Suggest clearer explanations
+3. **Add examples** — Share real-world scenarios
+4. **Translate** — Help translate to other languages
+
+See [CONTRIBUTING.md](CONTRIBUTING.md) for details.
 
 ---
 
 ## 📄 License
 
-MIT License — Feel free to use, modify, and share.
+MIT License — Use, modify, and share freely.
+
+See [LICENSE](LICENSE) for full terms.
 
 ---
 
 ## 👨‍💻 About
 
-Created by [Ordinary Man Trying](https://ordinarymantrying.com) — a project exploring psychology, decision-making, and human behavior through interactive tools and in-depth writing.
+Created by [Ordinary Man Trying](https://ordinarymantrying.com) — exploring psychology, decision-making, and human behavior through interactive tools and in-depth guides.
 
-- **Website**: https://ordinarymantrying.com/
-- **Interactive Quiz**: https://ordinarymantrying.com/tools/mind-traps.html
-- **Blog**: https://ordinarymantrying.com/ (40+ articles)
-
----
-
-## ⭐ Show Your Support
-
-If this collection helps your decision-making or learning:
-1. Star this repository
-2. Share it with others
-3. Link to it from your projects
-4. Contribute improvements
+**Resources:**
+- Website: https://ordinarymantrying.com/
+- Interactive Quiz: https://ordinarymantrying.com/tools/mind-traps.html
+- Law Index: https://ordinarymantrying.com/tools/psychology-laws-index.html
+- Individual Laws: https://ordinarymantrying.com/tools/laws/
 
 ---
 
-**Last Updated**: 2026-07-03  
-**Status**: 40 Laws Complete | 320+ Scenarios | 8,000+ Quiz Takers | Open for PRs
+## ⭐ Support This Project
 
+If this collection helps your decision-making:
+
+1. ⭐ **Star this repository** — Helps others discover it
+2. 🔗 **Share it** — Link from your projects or writing
+3. 📝 **Contribute** — Submit improvements
+4. 💬 **Give feedback** — Help us improve
+
+---
+
+**Last Updated:** 2026-07-04  
+**Status:** 40 Laws Complete | 320+ Scenarios | Links Verified | Open for PRs  
+**License:** MIT
