@@ -198,17 +198,17 @@ Each law includes:
 
 ---
 
-## 🔗 Related Resources
+## 🔗 Foundational Authors & Researchers
 
-### Similar Collections
-- [awesome-mental-models](https://github.com/ianand/awesome-mental-models) — Mental models for decision-making
-- [awesome-behavioral-economics](https://github.com/...) — Behavioral economics research
+Key thinkers whose work underpins these 40 laws:
 
-### Authors & Researchers
-- Daniel Kahneman (Thinking, Fast and Slow)
-- Nassim Taleb (Antifragile, Black Swan)
-- James Clear (Atomic Habits)
-- Robert Cialdini (Influence)
+- **Daniel Kahneman** — Thinking, Fast and Slow (Nobel Prize, behavioral economics)
+- **Nassim Taleb** — Antifragile, Black Swan (risk & uncertainty)
+- **James Clear** — Atomic Habits (compound effects, decision systems)
+- **Robert Cialdini** — Influence (persuasion & social psychology)
+- **Nassim Taleb** — The Logic of Scientific Discovery (falsifiability)
+
+**Recommended next step:** Start with [Mind Traps Quiz](https://ordinarymantrying.com/tools/mind-traps.html), then read the detailed guides for laws that surprise you.
 
 ---
 
